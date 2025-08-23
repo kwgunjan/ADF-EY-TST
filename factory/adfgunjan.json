@@ -1,0 +1,9 @@
+{
+	"name": "adfgunjan",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8e41976-bfbc-42f6-b70a-86a479200ed2",
+		"tenantId": "b112c588-1a0e-48f9-a190-52973d15789c"
+	}
+}
